@@ -1,0 +1,17 @@
+{
+    "parameterSets": {
+        "ly": {
+            "heightLayer": "2",
+            "lx": "90",
+            "ly": "30",
+            "r": "4",
+            "rExtKey": "7.5",
+            "rIntKey": "4",
+            "thicknessPlate": "3",
+            "thicknessStroke": "1"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}
